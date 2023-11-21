@@ -1,0 +1,4 @@
+baseURL = 'https://hacktheprairies.ca/'
+languageCode = 'en-us'
+title = 'Hack the Prairies'
+theme = "hacker"
