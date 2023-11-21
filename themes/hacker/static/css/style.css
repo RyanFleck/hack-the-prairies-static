@@ -400,27 +400,25 @@ div,
 }
 
 #title-card-content {
-
 }
 
 #title-card-content h1 {
-    font-size: 8vw;
+    font-size: min(max(8vw, 60px), 100px);
     padding: 0;
     margin: 0;
     line-height: 1em;
 }
 
 #title-card-content p {
-    font-size: 3vw;
+    font-size: min(max(4vw, 30px), 50px);
     padding: 0;
     margin: 0.2em;
 
 }
 
 #title-card-buttons input{
-    
-    font-size: 2vw;
-    padding: 1em 4em;
+    font-size: min(max(3vw, 20px), 40px);
+    padding: 1em 2em;
     margin: 2em;
     background: black;
     color: white;
